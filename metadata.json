@@ -1,0 +1,5 @@
+{
+  "name": "Telekinesis: The Magic of Udaan",
+  "description": "An interactive hand-tracking experience where you assemble a logo using telekinetic pinches.",
+  "requestFramePermissions": ["camera"]
+}
